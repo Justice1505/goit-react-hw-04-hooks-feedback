@@ -1,0 +1,14 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
+
+p {
+  margin: 5px;
+}
